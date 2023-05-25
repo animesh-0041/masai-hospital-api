@@ -1,0 +1,200 @@
+{
+    "users": [
+      {
+        "username": "animesh",
+        "email": "a@gmail.com",
+        "password": "123",
+        "doctor": true,
+        "id": 1
+      }
+    ],
+    "appointments": [
+      {
+        "name": "biman patra",
+        "image": "https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f3e5.svg",
+        "specialization": "cardiologist",
+        "experience": "3",
+        "location": "Chicago",
+        "date": "2023-05-19",
+        "fee": "700",
+        "slots": "3",
+        "id": 1
+      },
+      {
+        "name": "souvik",
+        "image": "https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f3e5.svg",
+        "specialization": "dermatologist",
+        "experience": "3",
+        "location": "Chicago",
+        "date": "2023-05-13",
+        "fee": "899",
+        "slots": "7",
+        "id": 2
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 3
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 4
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 5
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 6
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 7
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 8
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 9
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 10
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 11
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 12
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 13
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 14
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 15
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 16
+      },
+      {
+        "name": "",
+        "image": "",
+        "specialization": "",
+        "experience": "",
+        "location": "",
+        "date": "",
+        "fee": "",
+        "slots": "",
+        "id": 17
+      }
+    ]
+  }
